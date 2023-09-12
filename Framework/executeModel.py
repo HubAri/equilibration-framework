@@ -21,9 +21,7 @@ with open('Input\SiouxFalls_network.csv') as input:
     lines = input.readlines()
     for ln in lines:
         sep = ln.split(',')
-        #ADDITION Safe Capacity
         capac.append(sep[4])
-        #
         net.add_edge(Edge(sep))
 # initialize network costs
 net.init_cost()
