@@ -9,6 +9,9 @@ In this case, equilibrium results were computed on the network of Sioux Falls.
 Corresponding outputs of Sioux Falls further visualized in "PythonNotebook- AdditionalResults", which are discussed in the paper.
 OD demand of Sioux Falls used in "PythonNotebook- AdditionalResults" extracted from http://jlitraffic.appspot.com/tap.html [60].
 
+## TUM Project at the FTM / Chair of Automotive Technology
+Student: **Arian Moharramzadeh**   
+Supervisor: **David Ziegler**
 
 ## Usage: 
 1. Specify Input-Data: network structure as .csv and user trips/demand as .json 
