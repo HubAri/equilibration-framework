@@ -2,9 +2,12 @@
 
 Counterpart of Thesis: "Traffic Equilibrium Models: A Comparison of User Equilibrium Models and Implementation of
 Framework using Link Flow Assignment". As explained in the paper, the presented framework is based on the UE model 
-implementation from the TA-lab https://github.com/nlperic/ta-lab [57]. Furthermore, all network data 
+implementation from the TA-lab https://github.com/nlperic/ta-lab [57]. <br>
+
+Furthermore, all network data 
 (input values of SiouxFalls_network.csv and SiouxFalls_trips.json) used in this tool was provided 
-by the Transportation Networks-Repository https://github.com/bstabler/TransportationNetworks [58].
+by the Transportation Networks-Repository https://github.com/bstabler/TransportationNetworks [58]. <br>
+
 In this case, equilibrium results were computed on the network of Sioux Falls. 
 Corresponding outputs of Sioux Falls further visualized in "PythonNotebook- AdditionalResults", which are discussed in the paper.
 OD demand of Sioux Falls used in "PythonNotebook- AdditionalResults" extracted from http://jlitraffic.appspot.com/tap.html [60].
